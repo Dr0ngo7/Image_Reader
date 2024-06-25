@@ -1,0 +1,15 @@
+C:\Users\ensde\AppData\Local\Programs\Tesseract-OCR
+
+
+1
+https://www.youtube.com/watch?v=dxdId5n50cQ&ab_channel=%C3%A7a%C4%9Fatayodaba%C5%9F%C4%B1
+metinleri alma ve kare çerçeveleme kodun temelki
+
+https://www.youtube.com/watch?v=HI5iR_xi_zY&ab_channel=AbdulkadirT
+faydalı
+
+
+
+Kaynaklar
+
+https://pyimagesearch.com/2021/05/12/adaptive-thresholding-with-opencv-cv2-adaptivethreshold/
